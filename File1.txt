@@ -1,1 +1,2 @@
 Hi this is from file 1
+This is changed now
